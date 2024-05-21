@@ -1,2 +1,3 @@
-# cleanroom
-It is well isolated, well controlled from contamination, and actively cleansed.
+# Cleanroom
+
+A fresh and empty environment, ostensibly for testing local development processes and flows.
