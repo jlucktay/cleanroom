@@ -1,7 +1,7 @@
 data "external" "get_my_ip" {
   program = [
     "/bin/bash",
-    "${path.module}/get-my-ip.sh",
+    "${path.module}/scripts/get-my-ip.sh",
   ]
 }
 
